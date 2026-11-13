@@ -5,21 +5,20 @@ Hello, I'm Ezekiel Ada Peace,
 
 Skills and Tools
 
-.Microsoft Excel – Basic spreadsheet operations and calculations.
-. Python – Currently learning programming and data analysis.
+.Microsoft Excel  (Basic spreadsheet operations and calculations)and Python (Currently learning programming and data analysis).
 
 Currently Learning
 
-.Python programming
-. Data analysis using Python
-. Working with datasets
+.Python programming,
+. Data analysis using Python,
+. Working with datasets,
 
 My Goals
 
-.Improve my data analysis skills.
-.Gain practical experience through projects.
-.Build a portfolio of my work.
-.Continue learning new tools and techniques.
+.Improve my data analysis skills,
+Gain practical experience through projects,
+Build a portfolio of my work,
+Continue learning new tools and techniques,
 
 Projects
 
