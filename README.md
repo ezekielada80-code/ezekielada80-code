@@ -10,8 +10,8 @@ Skills and Tools
 Currently Learning
 
 .Python programming,
-. Data analysis using Python,
-. Working with datasets,
+ Data analysis using Python,
+Working with datasets,
 
 My Goals
 
