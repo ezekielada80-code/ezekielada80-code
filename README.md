@@ -1,6 +1,6 @@
 # Ezekiel-Ada-Peace
-Hello, I'm Ezekiel Ada Peace
-  I'm an Economics student interested in Data Analysis and how data can be used to understand real-world problems.I created this space to share my learning journey and practical progress as an aspiring Data Analyst using  Python and Excel.
+Hello, I'm Ezekiel Ada Peace,
+  an Economics student interested in Data Analysis and how data can be used to understand real world problems.I created this space to share my learning journey and practical progress as an aspiring Data Analyst using  Python and Excel.
   I'm currently learning and developing my skills in Python and Microsoft Excel.
 
 Skills and Tools
